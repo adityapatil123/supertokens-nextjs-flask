@@ -1,5 +1,5 @@
 # supertokens-nextjs-flask
-Authentication setup using Supertokens with next-js(frontend) and flask(backend)
+Authentication setup using [Supertokens](https://supertokens.com/) with [Next-js](https://nextjs.org/)(frontend) and [Flask](https://flask.palletsprojects.com/en/2.2.x/)(backend)
 
 ## Frontend
 1. Run react development server
