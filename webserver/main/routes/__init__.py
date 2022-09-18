@@ -31,4 +31,4 @@ api = Api(
 # def catch_all(u_path: str):
 #     return {}, 404
 
-api.add_namespace(search_namespace, path='/protocol')
+api.add_namespace(search_namespace, path='/')
